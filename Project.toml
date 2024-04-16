@@ -1,5 +1,7 @@
 [deps]
 Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
 ECOS = "e2685f51-7e38-5353-a97d-a921fd2c8199"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 Hypatia = "b99e6be6-89ff-11e8-14f8-45c827f4f8f2"
