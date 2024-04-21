@@ -88,6 +88,12 @@ function state_estimate(xi, xg)
     end
 end
 
+
+
+
+
+
+
 function thruster_model(xi, xg, u)
     if norm(xi - xg) < 1
         # assume no thruster errors within 1 m 
